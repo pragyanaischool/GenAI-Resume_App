@@ -1,0 +1,6 @@
+streamlit 
+streamlit-ext 
+langchain 
+groq 
+pypdf 
+sentence-transformers
