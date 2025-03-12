@@ -4,3 +4,5 @@ langchain
 groq 
 pypdf 
 sentence-transformers
+langchain_community
+langchain-groq
